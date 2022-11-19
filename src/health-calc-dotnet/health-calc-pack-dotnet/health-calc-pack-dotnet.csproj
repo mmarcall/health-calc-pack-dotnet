@@ -6,6 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>health-calc-pack-dotnet-mmarcall</PackageId>
+    <Version>1.1.0</Version>
+    <PackageIcon>heathcalc.jpeg</PackageIcon>
+    <PackageProjectUrl>https://www.nuget.org/packages/health-calc-pack-dotnet-mmarcall/</PackageProjectUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\heathcalc.jpeg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
