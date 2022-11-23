@@ -57,4 +57,4 @@ O cálculo de macronutrientes é realizada com base na estratégia sugerida
 
 ## Exemplo 
 
-<img src="img\exemplo.PNG" alt="exemplo">
+<img src="img\exemplo.png" alt="exemplo">
